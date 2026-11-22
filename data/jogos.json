@@ -1,0 +1,8 @@
+[
+  {"id":"j1","data":"2026-05-27","categoria":"Sub18","competicao":"Campeonato ARB","adversario":"Rio Claro","river":62,"adv":80,"local":""},
+  {"id":"j2","data":"2026-05-27","categoria":"Livre","competicao":"Campeonato LMB","adversario":"Itatiba","river":81,"adv":41,"local":""},
+  {"id":"j3","data":"2026-05-08","categoria":"Sub18","competicao":"Campeonato ARB","adversario":"Cosmópolis","river":54,"adv":57,"local":""},
+  {"id":"j4","data":"2026-05-08","categoria":"Sub21","competicao":"Campeonato ARB","adversario":"Cosmópolis","river":61,"adv":74,"local":""},
+  {"id":"j5","data":"2026-11-12T19:30","categoria":"Sub21","competicao":"ARB, final da série prata (triangular, 1º jogo)","adversario":"Santa Bárbara","river":"","adv":"","local":"Complexo Esportivo Mirzinho Daniel, Santa Bárbara"},
+  {"id":"j6","data":"","categoria":"Livre","competicao":"Torneio de Férias de Basquete, final (campeão)","adversario":"Além da Cesta","river":94,"adv":79,"local":"Santa Bárbara d'Oeste"}
+]
