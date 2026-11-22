@@ -24,19 +24,7 @@ the_river/
     └── fotos das equipes
 ```
 
-## Publicar no GitHub Pages
-
-1. Extraia este ZIP.
-2. Abra a pasta `the_river`.
-3. Envie **o conteúdo dessa pasta** para a raiz do seu repositório GitHub (não envie apenas o ZIP).
-4. No repositório, entre em **Settings → Pages**.
-5. Em **Build and deployment**, selecione **Deploy from a branch**.
-6. Escolha a branch `main` e a pasta `/ (root)`.
-7. Clique em **Save** e aguarde a publicação.
-
 A página inicial é `index.html`. Não é necessário configurar PHP, Node ou banco de dados.
-
-> Para testar os jogos localmente, abra o site usando uma extensão de servidor local (por exemplo, Live Server no VS Code). O navegador pode bloquear `fetch()` de arquivos JSON quando o HTML é aberto diretamente como `file://`.
 
 ## Atualizar os jogos
 
@@ -60,8 +48,6 @@ Edite `data/jogos.json` e siga o formato dos registros existentes:
 - Para data ainda não confirmada, use `""` em `data`.
 - Mantenha vírgulas entre os objetos e aspas duplas, pois o arquivo precisa ser JSON válido.
 
-O GitHub Pages não executa PHP e não possui painel administrativo. As alterações são publicadas quando você envia o arquivo atualizado ao repositório.
-
 ## Páginas
 
 - `index.html` — início e últimos resultados
@@ -73,6 +59,7 @@ O GitHub Pages não executa PHP e não possui painel administrativo. As alteraç
 
 ## Observações
 
-- O projeto usa fontes do Google Fonts; sem internet, serão usadas fontes alternativas locais.
 - Os jogos são carregados pelo arquivo `data/jogos.json`.
-- Não há dependência de PHP nem de backend.
+
+##Alunos
+Alyson Victor; Gustavo Grandino; Murilo Matana; Rafael Passos; Vinicius Mendes
