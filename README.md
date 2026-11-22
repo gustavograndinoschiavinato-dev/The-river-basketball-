@@ -61,5 +61,5 @@ Edite `data/jogos.json` e siga o formato dos registros existentes:
 
 - Os jogos são carregados pelo arquivo `data/jogos.json`.
 
-##Alunos
+## Alunos
 Alyson Victor; Gustavo Grandino; Murilo Matana; Rafael Passos; Vinicius Mendes
